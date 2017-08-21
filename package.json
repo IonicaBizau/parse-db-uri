@@ -1,0 +1,38 @@
+{
+  "name": "parse-db-uri",
+  "description": "Parse database URIs",
+  "keywords": [
+    "parse",
+    "db",
+    "uri",
+    "database",
+    "uris"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/parse-db-uri#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/parse-db-uri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/parse-db-uri/issues"
+  }
+}
